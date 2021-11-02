@@ -2,8 +2,6 @@ python version: 3.8
 
 required at least 2Gb memory to run VnCoreNLP server [1]
 
-create virtual environments and activate if needed
-
 install requirements:
 ```
 	pip install -r requirements.txt
